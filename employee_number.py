@@ -1,8 +1,9 @@
 # Step 3
 # Get a list as input with strings that contains certain possible employee numbers 
 # write the validate employee numbers into result list.
-# Note 1. Exact 6 digits
-# Note 2. With any possible prefix/subfix characters
+# For a valid employess number:
+# 1. Exactly 6 digits.
+# 2. With any possible prefix/subfix characters.
 
 import re
 
